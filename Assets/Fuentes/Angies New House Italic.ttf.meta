@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: c898b7e01a7d7c84491d7426570513f9
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Angie's New House
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a0fa98f224d6318469ac23c73361421d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
